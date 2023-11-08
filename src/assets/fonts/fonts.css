@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'RueZi';
+    src: url("./RueZi.TTF");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'YouYuan';
+    src: url("./YouYuan.TTF");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'vista';
+    src: url("./微软vista雅黑Bold.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'douyu';
+    src: url("./douyuFont.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'font1';
+    src: url("./font1.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'font2';
+    src: url("./font2.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'font3';
+    src: url("./拾陆字濑户2.0-1.ttf");
+    font-weight:normal;
+    font-style: normal;
+}
+

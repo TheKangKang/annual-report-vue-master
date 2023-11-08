@@ -1,0 +1,57 @@
+.share{
+    position: absolute;
+    right:10px;
+    top: 10px;
+    /*padding: 20px;*/
+    background: url("./images/icon/shareWhite.png") no-repeat;
+    background-size: 100% 100%;
+    width: 25px;
+    height: 25px;
+
+}
+.douYu{
+    font-family: "douyu";
+}
+.bottom{
+   /* position: absolute;
+    bottom: 3px;*/
+    position: fixed;
+    bottom: 0;
+    z-index: 9999;
+    width: 375px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    cursor: pointer;
+    padding-bottom: 5px;
+    left: 0;
+    right: 0;
+    text-transform: uppercase;
+}
+
+.linkPopup{
+    width: 20vh;
+    height: 20vh;
+    padding: 20px;
+}
+.shareMsg{
+    text-align: center;
+    font-weight: bold
+}
+.shareLink{
+    text-align: center;
+    font-weight: lighter;
+    line-height: 50px
+}
+.shareBtn{
+    padding: 20px
+}
+.shareBtnPopup{
+    position: absolute;
+    right: 5px;
+    top: 3px;
+}
+.imgPopup{
+    height: 80vh;
+}
